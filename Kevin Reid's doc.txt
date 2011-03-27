@@ -1,0 +1,73 @@
+Customizations:
+
+Ordinary/shift key:
+Swapped [] and (), swapped : and ;, swapped | and \.
+
+Option key:
+3 × times symbol
+4 ¢ cents symbol (Standard)
+9 · center dot symbol (usually shifted)
+0 ‚ low-9 quotation mark (usually shifted)
+d ∂ partial derivative symbol (Standard)
+t þ Thorn (lowercase)
+h θ Theta (lowercase) -- TODO: Decide if having theta on Greek is good enough
+j ∆ U+2206 Increment (Standard - capital delta operator symbol)
+a Dead: Arrows
+    WASD are directions, QEZC are diagonals, RF are double arrows
+    Shift doubles the bar.
+s Dead: Set symbols
+    u ∪ Union
+    i ∩ Intersection
+    e ∈ Element of
+    0 ∅ Empty set
+    , ⊂ Subset
+    . ⊃ Superset
+k Dead: Greek keyboard
+    Same as system Greek layout. 
+    Note that Option-w is summation sign ∑ whereas Option-k Shift-s is capital sigma Σ.
+l Dead: Logical symbols
+    A ∀ For all
+    E ∃ There exists
+    a ∨ Or
+    e ∧ And
+    q ≡ Equivalence
+    o ⇔ Biconditional
+    i ∈ Element of (Option-i not-element-of)
+    n ¬ Logical not 
+x ≈ Proportional to (Standard)
+v √ Square root sign (Standard)
+b ∫ Integral sign (Standard)
+m µ mu sign (Standard)
+
+Option-Shift:
+` ∝ Proportional-to symbol
+6 Dead: superscripts and subscripts
+    Superscripts supported: 1243567890-=+()in
+    Press Option to access subscripts.
+    Subscripts supported: 1234567890-=+()aeox
+t Þ Thorn (uppercase)
+f ′ Prime
+g ″ Double prime
+h † Dagger
+j ∇ Nabla (inverted delta)
+l λ Lambda
+
+--- To add (mostly extracted from Character Palette Favorites):
+⌘ Command symbol, ⌥ Option symbol
+‽ Interrobang
+− Minus sign
+‐ Hyphen
+ɥ Turned h
+ǝ Turned e
+║ Double vertical
+✓ Check mark
+⊥ Up tack / perpendicular symbol
+∘ "Ring operator" as opposed to degree symbol
+x̅ Combining overline
+◆ Black diamond
+▸ Right small triangle (used in TI-89)
+■ Black square (used in TI-89)
+␣ Open box (space symbol)
+ẋ Combining dot above
+x̂ Combining circumflex (math uses)
+x⃗ Combining right arrow above (math uses)
