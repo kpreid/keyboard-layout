@@ -1,4 +1,19 @@
-Customizations:
+Kevin Reid's Custom Mac OS X Keyboard Layout
+============================================
+
+Kevin Reid  
+http://switchb.org/kpreid/
+
+I designed the first version of this keyboard layout to make it convenient to program in Lisp, by giving unshifted ( ) : | characters. I then added features useful for typing mathematics in plain text.
+
+It is based on the Mac OS X system default “U.S.” keyboard layout.
+
+Table of symbols
+----------------
+
+“Standard” means that the mapping is in the default U.S. layout; they are mentioned here only because I have explicitly _kept_ them as being of interest. Any key combination not mentioned here gives the same result as in the default U.S. layout.
+
+“Dead” means that the key is a “dead key”, one which must be followed by another key (combination) to type a specific character.
 
 Ordinary/shift key:
 Swapped [] and (), swapped : and ;, swapped | and \.
@@ -20,10 +35,10 @@ s Dead: Set symbols
     i ∩ Intersection
     e ∈ Element of
     0 ∅ Empty set
-    , ⊂ Subset
+    , ⊂ Subset   (Chosen to be like <)
     . ⊃ Superset
 k Dead: Greek keyboard
-    Same as system Greek layout. 
+    Same as system Greek layout.
     Note that Option-w is summation sign ∑ whereas Option-k Shift-s is capital sigma Σ.
 l Dead: Logical symbols
     A ∀ For all
@@ -32,7 +47,8 @@ l Dead: Logical symbols
     e ∧ And
     q ≡ Equivalence
     o ⇔ Biconditional
-    i ∈ Element of (Option-i not-element-of)
+    i ∈ Element of
+    Option-i ∉ Not element of
     n ¬ Logical not 
 x ≈ Proportional to (Standard)
 v √ Square root sign (Standard)
@@ -45,6 +61,7 @@ Option-Shift:
     Superscripts supported: 1243567890-=+()in
     Press Option to access subscripts.
     Subscripts supported: 1234567890-=+()aeox
+    TODO: There are more (not a lot more) subscripts available in Unicode.
 t Þ Thorn (uppercase)
 f ′ Prime
 g ″ Double prime
@@ -52,8 +69,11 @@ h † Dagger
 j ∇ Nabla (inverted delta)
 l λ Lambda
 
---- To add (mostly extracted from Character Palette Favorites):
-⌘ Command symbol, ⌥ Option symbol
+Characters to be added in future versions
+-----------------------------------------
+
+⌘ Command symbol
+⌥ Option symbol
 ‽ Interrobang
 − Minus sign
 ‐ Hyphen
@@ -67,7 +87,7 @@ x̅ Combining overline
 ◆ Black diamond
 ▸ Right small triangle (used in TI-89)
 ■ Black square (used in TI-89)
-␣ Open box (space symbol)
+␣ Open box (used to denote space)
 ẋ Combining dot above
 x̂ Combining circumflex (math uses)
 x⃗ Combining right arrow above (math uses)
