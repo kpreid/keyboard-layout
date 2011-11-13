@@ -8,6 +8,12 @@ I designed the first version of this keyboard layout to make it convenient to pr
 
 It is based on the Mac OS X system default “U.S.” keyboard layout.
 
+To install a keyboard layout on Mac OS X, place it in
+    ~/Library/Keyboard Layouts
+or
+    /Library/Keyboard Layouts
+Changes will not be visible until the next time you log in.
+
 Table of symbols
 ----------------
 
