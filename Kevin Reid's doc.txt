@@ -102,6 +102,7 @@ Characters to be added in future versions
 ║ Double vertical
 ✓ Check mark
 ⊥ Up tack / perpendicular symbol
+⊢ Right tack / turnstile / entails
 ∘ "Ring operator" as opposed to degree symbol
 ◆ Black diamond
 ▸ Right small triangle (used in TI-89)
