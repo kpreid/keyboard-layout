@@ -60,6 +60,8 @@ x ≈ Proportional to (Standard)
 v √ Square root sign (Standard)
 b ∫ Integral sign (Standard)
 m µ mu sign (Standard)
+[ ‘ left curly quote (Moved compared to standard)
+] ’ right curly quote (Unshifted compared to standard)
 
 Option-Shift:
 ` ∝ Proportional-to symbol
@@ -74,6 +76,18 @@ g ″ Double prime
 h † Dagger
 j ∇ Nabla (inverted delta)
 l λ Lambda
+x ∼ Tilde operator (centered tilde)
+Option-Shift-accent dead keys type _combining_ characters, except for `:
+  a right arrow
+  e acute accent
+  y ẋ combining dot above
+  u ẍ combining diaeresis
+  i x̂ combining circumflex accent
+  n x̃ combining tilde
+  , x̅ combining overline
+  . x̌ combining caron
+[ “ left double curly quote
+] ” right double curly quote (Unshifted and moved, compared to standard)
 
 Characters to be added in future versions
 -----------------------------------------
@@ -89,11 +103,7 @@ Characters to be added in future versions
 ✓ Check mark
 ⊥ Up tack / perpendicular symbol
 ∘ "Ring operator" as opposed to degree symbol
-x̅ Combining overline
 ◆ Black diamond
 ▸ Right small triangle (used in TI-89)
 ■ Black square (used in TI-89)
 ␣ Open box (used to denote space)
-ẋ Combining dot above
-x̂ Combining circumflex (math uses)
-x⃗ Combining right arrow above (math uses)
